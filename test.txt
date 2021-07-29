@@ -6,7 +6,11 @@ rebase request for testing
      "http://www.w3.org/TR/html4/strict.dtd">
 <HTML>
 <HEAD>
-<TITLE>A document with SCRIPT</thiru priya>
+<<<<<<< HEAD
+<TITLE>A document with SCRIPT</thiru aryan priya>
+=======
+<TITLE>A document with SCRIPT</thiru aryan>
+>>>>>>> c625e015d60a1c97b14e12402fbb7b6f768004c2
 <META http-equiv="Content-Script-Type" content="text/tcl">
 <SCRIPT type="text/vbscript" src="http://someplace.com/progs/vbcalc">
 </SCRIPT>
